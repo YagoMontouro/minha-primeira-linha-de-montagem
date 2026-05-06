@@ -1,0 +1,1 @@
+[![.github/workflows/main.yml](https://github.com/YagoMontouro/minha-primeira-linha-de-montagem/actions/workflows/main.yml/badge.svg)](https://github.com/YagoMontouro/minha-primeira-linha-de-montagem/actions/workflows/main.yml)
